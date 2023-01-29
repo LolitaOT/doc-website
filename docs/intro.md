@@ -19,4 +19,4 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ### Details 元素示例
 
-测试自动打包啊啊
+sand box have fun
