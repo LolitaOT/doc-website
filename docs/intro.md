@@ -19,4 +19,4 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ### Details 元素示例
 
-sand box have fun
+sand box have fun to auto merge
