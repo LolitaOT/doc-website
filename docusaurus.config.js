@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Vlion Wiki',
+  tagline: 'Vlion Document',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
   url: 'https://lolitaot.github.io/',
@@ -70,10 +70,11 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         hideOnScroll: true,
-        title: 'My Site',
+        title: 'Vlion',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Vlion Logo',
+          src: 'img/logo.png',
+          
         },
         items: [
           {
@@ -95,11 +96,11 @@ const config = {
             label: 'community',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -145,7 +146,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Vlion, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
