@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-hello
+![1](./1.png)
 
 ## Getting Started
 
